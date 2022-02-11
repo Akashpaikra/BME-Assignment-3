@@ -1,0 +1,180 @@
+\documentclass[12pt]{article}
+\usepackage[english]{babel}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\graphicspath{{NITLOGO/}}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{vmargin}
+\setmarginsrb{3 cm}{2.5 cm}{3 cm}{2.5 cm}{1 cm}{1.5 cm}{1 cm}{1.5 cm}
+
+\title{FUTURE OF HEALTH CARE}\newline \\\\\\				
+\author{21111006}								
+\date{28 JAN 2022}						
+\makeatletter
+\let\thetitle\@title
+\let\theauthor\@author
+\let\thedate\@date
+\makeatother
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\theauthor}
+\lhead{\thetitle}
+\cfoot{\thepage}
+
+\begin{document}
+\begin{titlepage}
+	\centering
+    \includegraphics[scale = 0.22]{NITLOGO}\\[1.0 cm]	
+    \textsc{\LARGE National Institute Of Technology \newline\\\\ RAIPUR}\\[2.0 CM]
+    
+	\textsc{\Large ASSIGNMENT 03}\\[0.5 cm]				% Course Code
+	\rule{\linewidth}{0.4 mm} \\[0.4 cm]
+	{ \huge \bfseries \thetitle}\\
+	\rule{\linewidth}{0.4 mm} \\[1.5 cm]
+	
+	\begin{minipage}{0.6\textwidth}
+		\begin{flushleft} \large
+			\emph{Submitted To:}\\
+			Mr. Saurabh Gupta\\
+            Department Of Basic Biomedical Engineering\\
+			\end{flushleft}
+			\end{minipage}~
+			\begin{minipage}{0.4\textwidth}
+            
+			\begin{flushright} \large
+			\emph{Submitted By :}\\
+			Akash Paikra\\
+            21111006\\
+		\end{flushright}
+        
+	\end{minipage}\\[2 cm]
+\end{titlepage}
+
+\tableofcontents
+\pagebreak
+
+
+
+
+
+
+
+\section{WHAT IS FUTURE OF HEALTH CARE ?}
+
+Like many other sectors, healthcare is about to enter a period of rapid
+change. Longevity and the advance of new technologies and discoveries –
+as well as innovative combinations of existing ones – are among the many
+factors propelling patient empowerment, which is fundamentally changing
+how we prevent, diagnose and cure diseases.
+To understand what we should expect in the years ahead, we empaneled
+experts in the field of healthcare to predict which technologies and
+innovations we will see in the near term (the next five years) and in the long
+term (twenty-five years and beyond). We then surveyed 400 global business
+leaders in and around the healthcare sector on whether they agree with the
+panel's views, and what they perceive as the biggest hurdle to these
+technologies coming to fruition.
+
+
+
+
+\subsection{FUTURE HOSPITALS:}
+While the advancements in medical knowledge and capability made over the years have been remarkable, hospitals have remained
+basically the same over the past fifty years.
+Tomorrow's hospitals will no doubt rely more heavily on robotics and digital technologies. Many of the physical and m
+doctors perform today will be automated via hardware, software, and combinations of both. That will leave hospitals with more space in 
+addition to the space already being freed up through telemedicine and remote healthcare, which reduce the need for patient visits.  Babylon Health, a London startup developing an AI that fields patients' health questions like a GP, currently being piloted by Britains NHS.
+reckons that 85 per cent of consultations do not need to be in person.
+
+\subsection{ARTIFICIAL INTELLIGENCE AND THE FUTURE OF HEALTHCARE: }
+
+One of the great early attempts to automate the work of doctors with artificial intelligence was made half a century ago in doctoral 
+dissertation at Stanford University in the US. The system – christened “MYCIN”- attempted to codify the diagnostic process for infectious
+blood diseases in an algorithm – from identifying the cause of an infection to choosing a course of treatment.
+
+Unlike some other pioneering work in AI of the time that failed to live up to the hype, MYCIN was a true success, and delivered on what it
+set out to do at times outperforming practicing experts. It was, however, never adopted in practice.
+That was because the bulk of what a doctor does is not diagnostic, of the kind MYCIN automated - to adopt it would not have to saved
+doctors much time at all. Rather, much of what doctors spend their time doing is observing and measuring: they ask questions, listen and 
+observe, take measurements and run tests. Much of medicine is perceptual.
+It is only very recently, with the advent of deep-learning algorithms in the current AI renaissance, that machines have started to equal or at
+times exceed humans in a wide range of perceptual tasks. This has truly transformative potential in medicine.
+
+
+
+
+
+\subsection{NANOTECHNOLOGY IN FUTURE OF HEALTHCARE:}
+Materials at the nanoscale - in the tens of nanometers - are almost incomprehensibly tiny ( a sheet of paper is about 100000 nanometers
+thick). Engineering at this size requires manipulating individual atoms. Physical properties, such as conductivity or melting point behave 
+differently, making it exceptionally challenging to work with. But gaining the ability to do so – to build molecule-sized machines that can
+build and manipulate their environment at an autonomic level, or manipulate structures made of proteins or DNA – would be the most
+radical transformation of healthcare in centuries.
+
+\subsection{IOT IN HEALTHCARE:}
+One of the most hyped technological trends of the past ten years has been the promise of internet-connected everyday devices to
+transform everyday life by moving the internet off of our screens and into the physical environment. It is a vision that is already being 
+realised with the arrival of connected coffee machines and increasingly popular smart speakers such as the Amazon Echo or google 
+Home. Many fitness fanatics have embraced wearable tracking devices such as armbands, watches or heart-beat monitors that measures 
+their physical activity.
+
+The ability to put cheap sensors into any object, and connect them to the internet, offers a host of benefits, particularly in healthcare.
+Patients save time by being monitored remotely. Those with mobility issues will also benefit, as will the hospitals and clinic, which will face 
+lesser burdens on capacity. Doctors will also receive continuous patient data, giving them a more detailed picture of there patient health.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
